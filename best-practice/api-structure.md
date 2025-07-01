@@ -1,6 +1,7 @@
 # api-structure.md
 
 # Architektura API z CQRS
+[CQRS pattern (Microsoft Docs)](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
 
 Poniżej znajduje się struktura plików dla Twojego projektu z wykorzystaniem **CQRS pattern** oraz podziału konfiguracji API:
 
